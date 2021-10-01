@@ -4,7 +4,7 @@
 
 点击下面按钮部署,好用的话记得点个Star：
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy=https://github.com/dadzsftgd46dfg/ss-heroku/edit/master/README.md)
 - - -
 
 原生V2Ray部署： <https://github.com/ygcaicn/v2ray-heroku>
